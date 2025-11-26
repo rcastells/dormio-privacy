@@ -1,21 +1,44 @@
 # Dormio Privacy Policy
 
-Last updated: November 26, 2025
+**Last updated:** November 26, 2025
 
-## Overview
-Dormio is a sleep sounds app that helps you relax and fall asleep.
+## About Dormio
 
-## Data Collection
-Dormio does **not** collect, store, or share any personal data.
+Dormio is a sleep sounds application designed to help you relax and fall asleep with calming audio scenes.
 
-## Analytics
-This app does not use analytics or tracking services.
+## Information We Collect
 
-## Third-Party Services
-- **Firebase**: Used to deliver audio content. See [Google's Privacy Policy](https://policies.google.com/privacy)
+### Data We Do NOT Collect
+- Personal information (name, email, phone)
+- Location data
+- Device identifiers for tracking
+- Usage analytics
+
+### Data Stored Locally
+The following data is stored only on your device and is never transmitted:
+- Your favorite scenes
+- Timer preferences
+- App settings
+
+### Third-Party Services
+Dormio uses **Firebase** (by Google) to deliver audio content. Firebase may collect:
+- IP address (for content delivery)
+- Basic request metadata
+
+For details, see [Google's Privacy Policy](https://policies.google.com/privacy).
+
+## Data Security
+
+All preferences are stored locally on your device. We do not operate servers that store your personal data.
+
+## Children's Privacy
+
+Dormio does not knowingly collect data from children under 13.
+
+## Changes to This Policy
+
+Updates will be posted on this page with a revised date.
 
 ## Contact
-For questions about this privacy policy, contact: dormiotheapp@gmail.com
 
-## Changes
-We may update this policy occasionally. Changes will be posted here.
+Questions? Contact us at: [your-email@example.com]
