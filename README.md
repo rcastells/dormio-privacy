@@ -1,3 +1,23 @@
+# Dormio
+
+## Support
+
+Having trouble or have a question? Email us at: dormiotheapp@gmail.com
+
+### FAQ
+
+**How do I set a sleep timer?**  
+Tap the timer icon while a sound is playing.
+
+**Does it work offline?**  
+Yes! All bundled sounds work without internet.
+
+**How do I clear the audio cache?**  
+Go to Settings → Cache → Clear Cache.
+
+**How do I cancel my timer?**  
+Tap the timer icon and select "Off".
+
 # Dormio Privacy Policy
 
 **Last updated:** November 26, 2025
