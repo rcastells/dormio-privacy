@@ -56,7 +56,3 @@ Dormio does not knowingly collect data from children under 13.
 ## Changes to This Policy
 
 Updates will be posted on this page with a revised date.
-
-## Contact
-
-Questions? Contact us at: [your-email@example.com]
