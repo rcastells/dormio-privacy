@@ -20,8 +20,6 @@ Tap the timer icon and select "Off".
 
 # Dormio Privacy Policy
 
-**Last updated:** November 26, 2025
-
 ## About Dormio
 
 Dormio is a sleep sounds application designed to help you relax and fall asleep with calming audio scenes.
